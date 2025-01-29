@@ -1,8 +1,8 @@
-# Quizller - A Python Quiz Game
+# Quizller 📖 - A Python Quiz Game
 
 ## Description
 
-This is a Python-based quiz game that utilizes **Object-Oriented Programming (OOP)** principles and a **Graphical User Interface (GUI)** built with Tkinter. The game presents a series of True/False questions fetched dynamically from the [Open Trivia Database API](https://opentdb.com/api_config.php), tracks the player's score, and provides real-time feedback.
+This is a Python-based quiz game 📖 that utilizes **Object-Oriented Programming (OOP)** principles and a **Graphical User Interface (GUI)** built with Tkinter. The game presents a series of True/False questions fetched dynamically from the [Open Trivia Database API](https://opentdb.com/api_config.php), tracks the player's score, and provides real-time feedback.
 
 <details>
   <summary>Click to see more</summary>
