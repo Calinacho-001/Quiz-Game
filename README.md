@@ -13,6 +13,7 @@ This is a Python-based quiz game that utilizes **Object-Oriented Programming (OO
   - Score tracking and dynamic UI updates
 </details>
 
+
 ## Features
 
 - **Dynamic Question Fetching**: Retrieves quiz questions from an online API.
@@ -21,10 +22,12 @@ This is a Python-based quiz game that utilizes **Object-Oriented Programming (OO
 - **Instant Feedback**: Provides visual feedback for correct and incorrect answers.
 - **Smooth Game Flow**: The game continues until all questions are answered.
 
+![Quizller](/images/Quizller.PNG)
+
 ## Requirements
 
 - Python 3.x
-- `requests` module (for fetching quiz data)
+- `requests` module (pip install requests)
 - `tkinter` (included in standard Python installation)
 
 ## How to Play
